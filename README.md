@@ -8,4 +8,4 @@ This notebook compares all existing Black Swan detectors. Specifically displayed
 3. Percentile-based threshold
 4. Absolute return threshold
 
-It is welcomed to suggest any Black Swan model that is not included. I will try and updated it asap.
+It is welcomed to suggest any Black Swan model that is not included. I will try and update it asap.
