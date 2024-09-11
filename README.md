@@ -1,5 +1,5 @@
 # BLK_SWAN_COMPAR
-Existing public Black Swan Model comparisons
+Existing public Black Swan Indicators comparison
 
 This notebook compares all existing Black Swan detectors. Specifically displayed in the library is during the Pandamic period (2019-2021). As of writing today, these models include:
 
