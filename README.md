@@ -9,7 +9,7 @@ Comparing different detected Black Swan periods might help decision making in th
 3. Percentile-based threshold (similar idea to z-score)
 3. Price deviation over moving average standard deviation
 
-It is welcomed to download and play around with the settings and threshold to explore for insights.
+It is welcome to download and play around with the settings and threshold to explore for insights.
 Please feel free to suggest any Black Swan model that is not included. I will try and update it asap.
 
 ## Testing and Implementing
