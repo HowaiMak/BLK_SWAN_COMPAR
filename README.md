@@ -14,5 +14,3 @@ Please feel free to suggest any Black Swan model that is not included. I will tr
 
 ## Testing and Implementing
 All referencing models are coded in ipython. Idealy this should be run or either python, or even better C++. The choice of Jupyter Notebook is simply for demonstrating purposes and readability.
-
-For those who wish to run the code in python instead of ipython, please copy the code into a .py files first. After that import the library "os" in order to read and extract your current working directory (or the Excel files directory) to read the .csv files. Alternative way can be done manually by inputting the directory address into the code at the beginning. Commencing the program shall be done via the terminal (cmd) by calling "python script_name.py". If potential error appears please run in administrative mode, or check the executable of the .py file
