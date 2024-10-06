@@ -14,3 +14,6 @@ Please feel free to suggest any Black Swan model that is not included. I will tr
 
 ## Testing and Implementing
 All referencing models are coded in ipython. Idealy this should be run or either python, or even better C++. The choice of Jupyter Notebook is simply for demonstrating purposes and readability.
+
+## Cross Validations:
+It is welcomed to use multiple strategy at the same time to generate insights for trading decisions. Some of my private strategies also adapts the same ideology.
